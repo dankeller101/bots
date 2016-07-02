@@ -1,0 +1,16 @@
+{
+  "name": "testbot",
+  "version": "1.0.0",
+  "description": "A simple test of facebook chatbots",
+  "main": "idex.js",
+  "scripts": {
+    "test": "helloworld()"
+  },
+  "author": "Daniel Keller",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.72.0"
+  }
+}
